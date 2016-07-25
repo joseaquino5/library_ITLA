@@ -3,7 +3,7 @@
 // Author      : VMeta
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Library Management System in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
