@@ -2,7 +2,7 @@
  * Elemento.h
  *
  *  Created on: 24 jul. 2016
- *      Author: José Aquino
+ *      Author: JosÃ© Aquino
  */
 
 #ifndef LIBRO_H_
@@ -23,7 +23,7 @@ namespace ITLA
 			Libro*_siguiente;
 		public:
 			Libro();
-			//std::string titulo, std::string autor, std::string editora, std::string publicacion, std::string categoria
+		
 			virtual ~Libro();
 
 			std::string getAutor() { return _autor; }
