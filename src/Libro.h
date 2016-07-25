@@ -34,13 +34,13 @@ namespace ITLA
 
 			void setCategoria(std::string categoria) { _categoria = categoria;}
 
-			std::string getEditora() const { return _editora; }
+			std::string getEditora()  { return _editora; }
 
 			void setEditora(std::string editora) { _editora = editora; }
 
 			std::string getPublicacion() { return _publicacion; }
 
-			void setPublicacion(const std::string publicacion) { _publicacion = publicacion; }
+			void setPublicacion(std::string publicacion) { _publicacion = publicacion; }
 
 			std::string getTitulo() {return _titulo;}
 
